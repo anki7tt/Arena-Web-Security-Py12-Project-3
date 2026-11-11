@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+test_downloads/
+temp_unit_test_folder/
+organizer_log.txt
