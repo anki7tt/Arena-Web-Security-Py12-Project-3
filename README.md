@@ -91,3 +91,4 @@ Each time files are organized, operations are appended to `organizer_log.txt` in
 - **Invalid folder paths**: Re-prompts the user if the entered directory does not exist or points to a single file.
 - **Self-referential protection**: Ignores the log file (`organizer_log.txt`) and existing subdirectories during scanning.
 - **Permission errors**: Catches and displays file-system exceptions during move and log write operations.
+"# Arena-Web-Security-Py12-Project-3" 
